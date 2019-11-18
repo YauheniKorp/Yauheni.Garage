@@ -10,10 +10,8 @@ namespace Cars
     {
         static void Main(string[] args)
         {
-
             Display();
             Console.ReadLine();
-
         }
 
         public static void Create()
